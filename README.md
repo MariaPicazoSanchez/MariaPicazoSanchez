@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a final-year Computer Engineering student at the **Universidad de Castilla-La Mancha (UCLM)**, passionate about exploring new technologies and turning ideas into working solutions. I enjoy investigating how things work under the hood and experimenting across different areas of software development — from web interfaces to automation and testing.
+I'm a final-year Computer Engineering student at the **Universidad de Castilla-La Mancha (UCLM)**, passionate about exploring new technologies and turning ideas into working solutions. I enjoy investigating how things work under the hood and experimenting across different areas of software development - from web interfaces to automation and testing.
 
 > *"I like to research, implement, and keep trying things."*
 
