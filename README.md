@@ -1,130 +1,100 @@
-<h1 align="center">Hi, I'm María Picazo 👋</h1>
+# María Picazo
 
-<p align="center">
-  <em>Computer Engineering student at UCLM · Curious by nature · Builder by choice</em>
-</p>
+**Software Engineer · Full-Stack & AI Systems**
 
-<p align="center">
-  <a href="/cdn-cgi/l/email-protection#6c1c050f0d16031f0d020f040916010d1e050d2c0b010d0500420f0301">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maria-picazo-sanchez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+Final-year Computer Engineering student at UCLM with hands-on experience building full-stack applications, AI-powered tools, and data-driven systems. Focused on writing clean, tested, and deployable software.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-picazo-sanchez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:picazosanchezmaria@gmail.com)
 
 ---
 
-## About Me
+## 🚀 Projects
 
-I'm a final-year Computer Engineering student at the **Universidad de Castilla-La Mancha (UCLM)**, passionate about exploring new technologies and turning ideas into working solutions. I enjoy investigating how things work under the hood and experimenting across different areas of software development - from web interfaces to automation and testing.
+### 🎮 TableRoom - Multiplayer Board Game Platform
 
-> *"I like to research, implement, and keep trying things."*
+Production-ready web platform to play board games online in real time. Includes three fully implemented games (Última Carta, Connect 4, Checkers), AI opponents, and a complete authentication system. Deployed on Google Cloud Run.
 
----
+**Tech Stack:** Node.js · Express · Socket.io · MongoDB · React 19 · Vite · Passport.js · Google OAuth 2.0 · Playwright · Vitest
 
-## 🛠 Tech Stack & Skills
+**Key Features:**
+- Real-time multiplayer gameplay via WebSocket (Socket.io)
+- Local and Google authentication (OAuth 2.0 + One-Tap), email verification and password reset
+- AI opponents with minimax + alpha-beta pruning (Connect 4 & Checkers)
+- 255 automated tests (202 server + 53 client), including E2E with Playwright
+- Deployed and accessible on Google Cloud Run
 
-**Languages & Markup**
+**What I did:**
+- Designed and implemented the full-stack architecture (client, server, WebSocket layer)
+- Built the authentication system (local + Google OAuth) and user management
+- Developed AI game engines and real-time game logic for three different games
+- Set up the testing suite (unit, integration and E2E) and CI/CD pipeline
+- Deployed the application to Google Cloud Run
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Python Libraries**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![pytesseract](https://img.shields.io/badge/pytesseract-OCR-4A90D9?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=folium&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=websocket&logoColor=white)
-![PyWebView](https://img.shields.io/badge/PyWebView-306998?style=flat-square)
-![PyInstaller](https://img.shields.io/badge/PyInstaller-3670A0?style=flat-square)
-![i18n](https://img.shields.io/badge/i18n-Internationalization-0055A4?style=flat-square)
-![InnoSetup](https://img.shields.io/badge/Inno_Setup-264D73?style=flat-square)
-
-**Tools & Practices**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-6DB33F?style=flat-square&logo=pytest&logoColor=white)
+🔗 [Live Demo](https://pruebas-1066426825741.europe-west1.run.app) · [Repository](https://github.com/MariaPicazoSanchez/TableRoom)
 
 ---
 
-## 🚀 Featured Projects
+### 🔍 TextLens - AI Text Processing Platform
 
-### 🎓 TFG - Mobility Management at ESII
-Desktop application for managing **Erasmus and SICUE** academic mobility programs at the ESII. Built as the capstone of my Computer Engineering degree, it covers the full workflow from student applications to data visualization and reporting.
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PyWebView](https://img.shields.io/badge/PyWebView-306998?style=flat-square)
-![PyInstaller](https://img.shields.io/badge/PyInstaller-3670A0?style=flat-square)
-![InnoSetup](https://img.shields.io/badge/Inno_Setup-264D73?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
- 
-[View repository →](https://github.com/MariaPicazoSanchez/TFG-MariaPicazoSanchez)
- 
----
- 
-### 🔍 TextLens
-Full-stack web application that leverages the **Groq API** (Llama 3.1 / 3.3) to perform a wide range of AI-driven text operations through a clean, responsive dark-theme interface. Responses stream token-by-token in real time. The UI is fully localized in **16 languages**.
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-![i18n](https://img.shields.io/badge/i18n-16_languages-0055A4?style=flat-square)
-![WebSockets](https://img.shields.io/badge/Streaming-WebSockets-010101?style=flat-square)
- 
-[View repository →](https://github.com/MariaPicazoSanchez/TextLens)
- 
----
- 
-### 🎮 Games Web Platform *(coming soon)*
-Web application for game management including user accounts, match tracking, and more. Currently polishing the repo.
- 
-> 🔗 Repository link coming soon
+Full-stack web application integrating LLMs (Llama 3.1 / 3.3 via Groq API) to perform AI-driven text operations with real-time streaming responses. Fully localized in 16 languages.
+
+**Tech Stack:** Python · FastAPI · JavaScript · WebSockets · Groq API · i18n
+
+**Key Features:**
+- Token-level streaming responses via WebSockets
+- Wide range of AI-powered text operations
+- Multilingual interface supporting 16 languages
+
+**What I did:**
+- Implemented real-time communication between frontend and backend via WebSockets
+- Integrated Groq LLM API for dynamic, streaming text processing
+- Designed and built the multilingual interface (i18n)
+
+🔗 [Live Demo](https://text-lens-ten.vercel.app/) · [Repository](https://github.com/MariaPicazoSanchez/TextLens)
 
 ---
 
-## 📊 GitHub Stats
+### 🎓 Mobility Management System - TFG (UCLM)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaPicazoSanchez&show_icons=true&theme=default&hide_border=true&count_private=true" alt="María's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPicazoSanchez&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150"/>
-</p>
+End-to-end desktop application for managing Erasmus and SICUE academic mobility programs at ESII. Covers the full workflow from student applications to data processing, visualization, and packaged deployment.
+
+**Tech Stack:** Python · Flask · Pandas · Streamlit · Folium · PyWebView · PyInstaller · Inno Setup · WebSockets
+
+**Key Features:**
+- Full mobility program management (Erasmus & SICUE)
+- Data processing, reporting and interactive visualization
+- Packaged as a standalone Windows desktop application
+
+**What I did:**
+- Built the full system architecture and data layer
+- Developed data pipelines, processing logic and interactive visualizations
+- Packaged and delivered a complete, installable desktop application
+
+🔗 [Documentation & Demo](https://mariapicazosanchez.github.io/TFG-MariaPicazoSanchez/) · [Repository](https://github.com/MariaPicazoSanchez/TFG-MariaPicazoSanchez)
 
 ---
 
-## 📬 Get in Touch
+## 🛠 Skills
 
-I'm always open to interesting conversations, collaborations, or just a good tech discussion.
- 
+**Languages**  
+Python · JavaScript · Java · HTML · CSS
+
+**Frameworks & Libraries**  
+React · FastAPI · Flask · Node.js · Express · Streamlit · Pandas · spaCy · Groq API
+
+**Tools & Practices**  
+Git · CI/CD · Testing (Pytest · Vitest · Playwright) · WebSockets · MongoDB · Google Cloud
+
+---
+
+## About
+
+Final-year Computer Engineering student at the **Universidad de Castilla-La Mancha (UCLM)**, with a strong foundation in software engineering and growing specialization in full-stack development and AI systems. I enjoy building real, complete solutions - from architecture and backend logic to deployment and testing.
+
+---
+
+## Contact
+
 - 📧 [picazosanchezmaria@gmail.com](mailto:picazosanchezmaria@gmail.com)
 - 💼 [linkedin.com/in/maria-picazo-sanchez](https://www.linkedin.com/in/maria-picazo-sanchez/)
- 
----
- 
-<p align="center">
-  <sub>Thanks for stopping by! ⭐</sub>
-</p>
