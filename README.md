@@ -119,5 +119,12 @@ Web application for game management including user accounts, match tracking, and
 ## 📬 Get in Touch
 
 I'm always open to interesting conversations, collaborations, or just a good tech discussion.
-
-- 📧 [<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c4b4ada7a5beabb7a5aaa7aca1bea9a5b6ada584a3a9a5ada8eaa7aba9">[email&#160;protected]</a>](mailto:<a href="/cdn-cg
+ 
+- 📧 [picazosanchezmaria@gmail.com](mailto:picazosanchezmaria@gmail.com)
+- 💼 [linkedin.com/in/maria-picazo-sanchez](https://www.linkedin.com/in/maria-picazo-sanchez/)
+ 
+---
+ 
+<p align="center">
+  <sub>Thanks for stopping by! ⭐</sub>
+</p>
