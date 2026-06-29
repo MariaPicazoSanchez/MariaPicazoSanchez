@@ -1,8 +1,8 @@
-# María Picazo
+# María Picazo Sánchez
 
 **Software Engineer · Full-Stack & AI Systems**
 
-Final-year Computer Engineering student at UCLM with hands-on experience building full-stack applications, AI-powered tools, and data-driven systems. Focused on writing clean, tested, and deployable software.
+Computer Engineering graduate from UCLM with hands-on experience building and deploying full-stack applications and data-driven solutions. Passionate about software engineering, clean architecture, automation, and creating reliable, maintainable systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-picazo-sanchez/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:picazosanchezmaria@gmail.com)
