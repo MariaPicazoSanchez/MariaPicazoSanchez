@@ -31,7 +31,7 @@ Production-ready web platform to play board games online in real time. Includes 
 - Set up the testing suite (unit, integration and E2E) and CI/CD pipeline
 - Deployed the application to Google Cloud Run
 
-🔗 [Live Demo](https://pruebas-1066426825741.europe-west1.run.app) · [Repository](https://github.com/MariaPicazoSanchez/TableRoom)
+🔗 [Live Demo](https://tableroom-1066426825741.europe-west1.run.app) · [Repository](https://github.com/MariaPicazoSanchez/TableRoom)
 
 ---
 
